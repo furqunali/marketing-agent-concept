@@ -5,6 +5,8 @@ operations console: competitor research → creative generation → multi-channe
 campaign deployment → continuous bid/spend optimization, with a human-in-the-loop
 approval flow.
 
+> **Live demo:** https://marketing-agent-concept.vercel.app
+>
 > ⚠️ **This is a UI/UX concept prototype, not a working product.** It demonstrates
 > the intended experience and information architecture. It is **not** wired to any
 > LLM or ad platform — the metrics, agent activity, and console log are illustrative
